@@ -1,1 +1,3 @@
-# sem-monthly
+# SEM Monthly Analysis
+
+Google Ads Keyword Performance on a month-by-month basis. Although a tool like [Tableau](https://public.tableau.com/profile/nitu7665#!/vizhome/EmployeeEngagementAdWords2019/Dashboard1) offers better interactivity however it takes some time to build it out each month. Using this python script, I can just plug in the csv export of ads data and get a quick snapshot on how performance as a whole has been going. 
